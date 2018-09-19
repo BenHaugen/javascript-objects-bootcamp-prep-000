@@ -9,5 +9,5 @@ playlist[artist] = song
 }
 
 function removeFromPlaylist(playlist, artist)
-artist.delete
+delete removeFromPlaylist.artist
 return playlist
