@@ -3,9 +3,9 @@ playlist
 
 
 function updatePlaylist(obj, key, value) {
-obj[key] = value
+playlist[artist] = song
  
-  return obj
+  return playlist
 }
 
 
