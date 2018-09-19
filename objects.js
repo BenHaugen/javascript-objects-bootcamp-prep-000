@@ -1,4 +1,4 @@
-var playlist = {names: songs};
+var playlist = {artist: song};
 playlist
 
 
