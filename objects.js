@@ -2,8 +2,7 @@ var playlist = {artist: 'song'};
 playlist
 
 
-function updatePlaylist(playlist, artist, song) {
-  {}[artist] = song
-  return playlist 
+function updatePlaylist(obj, key, value) {
+
 }
 
