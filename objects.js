@@ -1,3 +1,4 @@
-var playlist = {names: songs}
-return playlist
+var playlist = {names: songs};
+playlist
+
 
