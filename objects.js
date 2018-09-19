@@ -10,4 +10,4 @@ playlist[artist] = song
 
 function removeFromPlaylist(playlist, artist)
 delete removeFromPlaylist.artist
-return playlist
+playlist
